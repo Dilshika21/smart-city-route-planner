@@ -1,5 +1,6 @@
 package data;
 
+/*AVLNode class*/
 public class AVLNode {
     String key;
     AVLNode left, right;
