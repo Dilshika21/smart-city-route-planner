@@ -56,7 +56,7 @@ public class LocationTree {
         return node;
     }
 
-    /*Public insert with basic validationPublic insert with basic validation*/
+    /*Public insert with basic validationPublic insert with basic validation.*/
     public void insert(String key) {
         if (key == null) return;
         String k = key.trim();
